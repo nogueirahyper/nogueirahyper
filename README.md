@@ -1,4 +1,4 @@
-## Olá! me chamo João Nogueira um estudante de Ciências da Computação a procura de novas experiencias e desafios no mundo da programação
+## Olá! me chamo João atualmente estou me aprofundando em python e os seus diversos usos 🐍
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nogueirahyper&theme=radical&mode=weekly" />
@@ -25,6 +25,7 @@
 
 #### Studying in this moment:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 #### Databases:
 
